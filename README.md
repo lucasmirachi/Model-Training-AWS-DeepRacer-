@@ -1,8 +1,8 @@
 # AWS DeepRacer
 
-![](https://d1.awsstatic.com/r2018/r/Silverstone/DeepRacer_Chrome_Small_rgb.aa9b2a3bee64dae2d593ebf74133277b2811a42e.png | width=100)
+![](https://d1.awsstatic.com/r2018/r/Silverstone/DeepRacer_Chrome_Small_rgb.aa9b2a3bee64dae2d593ebf74133277b2811a42e.png)
 
-Bem-vindo ao repositório de estudo de Reinforcement Learning! Este repositório tem como objetivo fornecer uma coleção abrangente de recursos para aqueles que desejam aprender e aprimorar seus conhecimentos em Reinforcement Learning (Aprendizado por Reforço, em português).
+Bem-vindo(a) ao repositório de estudo de Reinforcement Learning! Este repositório tem como objetivo fornecer uma coleção abrangente de recursos para aqueles que desejam aprender e aprimorar seus conhecimentos em Reinforcement Learning (Aprendizado por Reforço, em português).
 
 Boa parte do conteúdo deste repositório tomou como referência este [curso gratuito de Reinforcement Learning da AWS DeepRacer](https://explore.skillbuilder.aws/learn/course/external/view/elearning/87/aws-deepracer-driven-by-reinforcement-learning).
 
